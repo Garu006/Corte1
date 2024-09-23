@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\bin\Debug\Corte_I.exe.config
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\bin\Debug\Corte_I.exe
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\bin\Debug\Corte_I.pdb
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.exe
+C:\Users\gabri\OneDrive\Documentos\Corte1\Corte1\Corte_I\obj\Debug\Corte_I.pdb
